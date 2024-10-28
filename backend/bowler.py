@@ -48,11 +48,11 @@ def normalize_landmarks(landmarks, image_shape):
 
 # Function to update Tkinter labels with current metrics
 def update_gui(elbow_angle, shoulder_load, speed, suggestion, labels, chucking_status):
-    labels['elbow_angle'].config(text=f'Elbow Angle: {int(elbow_angle)}°' if elbow_angle else "N/A")
-    labels['shoulder_load'].config(text=f'Shoulder Load: {int(shoulder_load)}°' if shoulder_load else "N/A")
-    labels['speed'].config(text=f'Speed: {speed:.2f} px/s' if speed else "N/A")
-    labels['suggestion'].config(text=f'Suggestion: {suggestion}')
-    labels['chucking'].config(text=f'Chucking: {chucking_status}')
+    labels['elbow_angle'].config(text=f'Elbow Angle: {int(elbow_angle)}°' if elbow_angle else "")
+    labels['shoulder_load'].config(text=f'Shoulder Load: {int(shoulder_load)}°' if shoulder_load else "")
+    labels['speed'].config(text=f'Speed: {speed:.2f} px/s' if speed else "")
+    labels['suggestion'].config(text=f'Suggestion: {suggestion}' if suggestion != "N/A" else "")
+    labels['chucking'].config(text=f'Chucking: {chucking_status}' if chucking_status != "N/A" else "")
 
 # Function to process the video and calculate key metrics with feedback
 def analyze_bowling_video(video_path, labels):
@@ -163,19 +163,19 @@ def create_tkinter_ui():
     # Set up the grid layout for labels
     ttk.Label(window, text="Bowler Action Analysis", font=("Helvetica", 16)).grid(row=0, column=0, columnspan=2, pady=(10, 5))
 
-    elbow_angle_label = ttk.Label(window, text="Elbow Angle: N/A", font=("Helvetica", 12))
+    elbow_angle_label = ttk.Label(window, text="", font=("Helvetica", 12))
     elbow_angle_label.grid(row=1, column=0, padx=10, pady=5)
 
-    shoulder_load_label = ttk.Label(window, text="Shoulder Load: N/A", font=("Helvetica", 12))
+    shoulder_load_label = ttk.Label(window, text="", font=("Helvetica", 12))
     shoulder_load_label.grid(row=2, column=0, padx=10, pady=5)
 
-    speed_label = ttk.Label(window, text="Speed: N/A", font=("Helvetica", 12))
+    speed_label = ttk.Label(window, text="", font=("Helvetica", 12))
     speed_label.grid(row=3, column=0, padx=10, pady=5)
 
-    suggestion_label = ttk.Label(window, text="Suggestion: N/A", font=("Helvetica", 12), wraplength=300)
+    suggestion_label = ttk.Label(window, text="", font=("Helvetica", 12), wraplength=300)
     suggestion_label.grid(row=4, column=0, padx=10, pady=5)
 
-    chucking_label = ttk.Label(window, text="Chucking: N/A", font=("Helvetica", 12))
+    chucking_label = ttk.Label(window, text="", font=("Helvetica", 12))
     chucking_label.grid(row=5, column=0, padx=10, pady=5)
 
     # Store labels in a dictionary for easy access
@@ -192,7 +192,7 @@ def create_tkinter_ui():
 # Main function to run the video analysis and Tkinter GUI
 if __name__ == '__main__':
     # Path to your bowling video file
-    video_path = r"D:\\Bowler Action Analysis\\backend\\bowleractionanalysis.mp4"
+    video_path = r"D:\\FairPlay Unleashed AI for Legal Deliveries and Bowling Brilliance\\backend\\bowleractionanalysis.mp4"
 
     # Create Tkinter GUI
     window, labels = create_tkinter_ui()
