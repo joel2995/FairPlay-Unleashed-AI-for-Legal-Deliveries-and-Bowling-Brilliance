@@ -4,8 +4,7 @@ import numpy as np
 import math
 import os
 import time
-import tkinter as tk
-from tkinter import ttk
+import json
 
 # Suppress TensorFlow warnings
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
@@ -46,30 +45,40 @@ def normalize_landmarks(landmarks, image_shape):
         normalized_landmarks.append([lm.x * width, lm.y * height])
     return normalized_landmarks
 
-# Function to update Tkinter labels with current metrics
-def update_gui(elbow_angle, shoulder_load, speed, suggestion, labels, chucking_status):
-    labels['elbow_angle'].config(text=f'Elbow Angle: {int(elbow_angle)}°' if elbow_angle else "")
-    labels['shoulder_load'].config(text=f'Shoulder Load: {int(shoulder_load)}°' if shoulder_load else "")
-    labels['speed'].config(text=f'Speed: {speed:.2f} px/s' if speed else "")
-    labels['suggestion'].config(text=f'Suggestion: {suggestion}' if suggestion != "N/A" else "")
-    labels['chucking'].config(text=f'Chucking: {chucking_status}' if chucking_status != "N/A" else "")
-
 # Function to process the video and calculate key metrics with feedback
-def analyze_bowling_video(video_path, labels):
+def analyze_bowling_video(video_path, output_dir):
     cap = cv2.VideoCapture(video_path)
-
+    
     # Variables to store previous frame time and previous ball position
     prev_frame_time = time.time()
     prev_ball_pos = None
 
-    # History for long-term tracking (future scalability)
+    # History for long-term tracking
     elbow_angle_history = []
     speed_history = []
+    frame_results = []
+    
+    # Create output directory for frames
+    frames_dir = os.path.join(output_dir, "frames")
+    os.makedirs(frames_dir, exist_ok=True)
+    
+    frame_count = 0
+    
+    # Create output video writer
+    fourcc = cv2.VideoWriter_fourcc(*'mp4v')
+    output_video_path = os.path.join(output_dir, "analyzed_video.mp4")
+    
+    # Get video properties
+    width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+    height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+    fps = cap.get(cv2.CAP_PROP_FPS)
+    
+    out = cv2.VideoWriter(output_video_path, fourcc, fps, (width, height))
 
+    print("Starting video analysis...")
     while cap.isOpened():
         ret, frame = cap.read()
         if not ret:
-            print("Video has ended or failed to load.")
             break
 
         # Convert the BGR image to RGB
@@ -81,6 +90,7 @@ def analyze_bowling_video(video_path, labels):
         elbow_angle = shoulder_load = speed = None
         suggestion = "N/A"
         chucking_status = "N/A"
+        frame_data = {}
 
         if result.pose_landmarks:
             landmarks = result.pose_landmarks.landmark
@@ -132,73 +142,129 @@ def analyze_bowling_video(video_path, labels):
             # Update previous ball position and frame time
             prev_ball_pos = curr_ball_pos
             prev_frame_time = curr_frame_time
+            
+            # Store frame data
+            frame_data = {
+                "frame_number": frame_count,
+                "elbow_angle": float(elbow_angle) if elbow_angle is not None else None,
+                "shoulder_load": float(shoulder_load) if shoulder_load is not None else None,
+                "speed": float(speed) if speed is not None else 0,
+                "suggestion": suggestion,
+                "chucking_status": chucking_status
+            }
 
-        # Update Tkinter GUI with metrics and chucking detection
-        update_gui(elbow_angle, shoulder_load, speed, suggestion, labels, chucking_status)
-
-        # Display the frame with pose landmarks (for debugging purposes)
-        mp_drawing.draw_landmarks(
-            frame, result.pose_landmarks, mp_pose.POSE_CONNECTIONS,
-            mp_drawing.DrawingSpec(color=(245, 117, 66), thickness=2, circle_radius=2),
-            mp_drawing.DrawingSpec(color=(245, 66, 230), thickness=2, circle_radius=2)
-        )
-
-        cv2.imshow('Bowler Action Analysis', frame)
-
-        # Break on keypress 'q'
-        if cv2.waitKey(10) & 0xFF == ord('q'):
-            break
+        # Draw landmarks on the frame
+        if result.pose_landmarks:
+            mp_drawing.draw_landmarks(
+                frame, result.pose_landmarks, mp_pose.POSE_CONNECTIONS,
+                mp_drawing.DrawingSpec(color=(245, 117, 66), thickness=2, circle_radius=2),
+                mp_drawing.DrawingSpec(color=(245, 66, 230), thickness=2, circle_radius=2)
+            )
+            
+            # Add text annotations to the frame
+            if elbow_angle is not None:
+                cv2.putText(frame, f"Elbow: {int(elbow_angle)}°", (10, 30), 
+                            cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
+            if shoulder_load is not None:
+                cv2.putText(frame, f"Shoulder: {int(shoulder_load)}°", (10, 60), 
+                            cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
+            if speed is not None:
+                cv2.putText(frame, f"Speed: {speed:.2f} px/s", (10, 90), 
+                            cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
+            cv2.putText(frame, f"Status: {chucking_status}", (10, 120), 
+                        cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255) if chucking_status == "Chucking (Illegal)" else (0, 255, 0), 2)
+        
+        # Save frame with annotations
+        if frame_data:
+            frame_filename = f"frame_{frame_count:04d}.jpg"
+            frame_path = os.path.join(frames_dir, frame_filename)
+            cv2.imwrite(frame_path, frame)
+            
+            # Add frame path to data
+            frame_data["frame_path"] = os.path.join("frames", frame_filename)
+            frame_results.append(frame_data)
+        
+        # Write frame to output video
+        out.write(frame)
+        
+        frame_count += 1
+        if frame_count % 10 == 0:
+            print(f"Processed {frame_count} frames...")
 
     cap.release()
-    cv2.destroyAllWindows()
-
-# Tkinter UI for real-time data display
-def create_tkinter_ui():
-    window = tk.Tk()
-    window.title("Bowler Action Analysis")
-
-    # Set window size and layout
-    window.geometry("400x350")
-
-    # Set up the grid layout for labels
-    ttk.Label(window, text="Bowler Action Analysis", font=("Helvetica", 16)).grid(row=0, column=0, columnspan=2, pady=(10, 5))
-
-    elbow_angle_label = ttk.Label(window, text="", font=("Helvetica", 12))
-    elbow_angle_label.grid(row=1, column=0, padx=10, pady=5)
-
-    shoulder_load_label = ttk.Label(window, text="", font=("Helvetica", 12))
-    shoulder_load_label.grid(row=2, column=0, padx=10, pady=5)
-
-    speed_label = ttk.Label(window, text="", font=("Helvetica", 12))
-    speed_label.grid(row=3, column=0, padx=10, pady=5)
-
-    suggestion_label = ttk.Label(window, text="", font=("Helvetica", 12), wraplength=300)
-    suggestion_label.grid(row=4, column=0, padx=10, pady=5)
-
-    chucking_label = ttk.Label(window, text="", font=("Helvetica", 12))
-    chucking_label.grid(row=5, column=0, padx=10, pady=5)
-
-    # Store labels in a dictionary for easy access
-    labels = {
-        'elbow_angle': elbow_angle_label,
-        'shoulder_load': shoulder_load_label,
-        'speed': speed_label,
-        'suggestion': suggestion_label,
-        'chucking': chucking_label
+    out.release()
+    print("Video analysis completed!")
+    
+    # Calculate summary statistics
+    if elbow_angle_history:
+        avg_elbow_angle = sum(elbow_angle_history) / len(elbow_angle_history)
+        min_elbow_angle = min(elbow_angle_history)
+        max_elbow_angle = max(elbow_angle_history)
+    else:
+        avg_elbow_angle = min_elbow_angle = max_elbow_angle = None
+    
+    if speed_history:
+        avg_speed = sum(speed_history) / len(speed_history)
+        max_speed = max(speed_history)
+    else:
+        avg_speed = max_speed = None
+    
+    # Determine overall chucking status
+    overall_chucking = "Legal"
+    for frame in frame_results:
+        if frame.get("chucking_status") == "Chucking (Illegal)":
+            overall_chucking = "Chucking (Illegal)"
+            break
+    
+    # Create summary
+    summary = {
+        "total_frames": frame_count,
+        "avg_elbow_angle": float(avg_elbow_angle) if avg_elbow_angle is not None else None,
+        "min_elbow_angle": float(min_elbow_angle) if min_elbow_angle is not None else None,
+        "max_elbow_angle": float(max_elbow_angle) if max_elbow_angle is not None else None,
+        "avg_speed": float(avg_speed) if avg_speed is not None else None,
+        "max_speed": float(max_speed) if max_speed is not None else None,
+        "overall_chucking_status": overall_chucking,
+        "overall_suggestion": suggestion,
+        "output_video_path": output_video_path
     }
+    
+    # Create final results
+    results = {
+        "frames": frame_results,
+        "summary": summary
+    }
+    
+    # Save results to JSON file
+    results_path = os.path.join(output_dir, "analysis_results.json")
+    with open(results_path, 'w') as f:
+        json.dump(results, f, indent=4)
+    
+    print(f"Results saved to {results_path}")
+    print(f"Analyzed video saved to {output_video_path}")
+    
+    return results
 
-    return window, labels
-
-# Main function to run the video analysis and Tkinter GUI
+# Main function to run the video analysis
 if __name__ == '__main__':
     # Path to your bowling video file
-    video_path = r"D:\\FairPlay Unleashed AI for Legal Deliveries and Bowling Brilliance\\backend\\bowleractionanalysis.mp4"
-
-    # Create Tkinter GUI
-    window, labels = create_tkinter_ui()
-
-    # Run video analysis in a separate thread or after the Tkinter window is ready
-    window.after(100, lambda: analyze_bowling_video(video_path, labels))
-
-    # Start Tkinter main loop
-    window.mainloop()
+    video_path = r"D:\FairPlay Unleashed AI for Legal Deliveries and Bowling Brilliance\backend\bowleractionanalysis.mp4"
+    
+    # Create output directory
+    output_dir = r"D:\FairPlay Unleashed AI for Legal Deliveries and Bowling Brilliance\uploads\analysis_results"
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Run the analysis
+    results = analyze_bowling_video(video_path, output_dir)
+    
+    # Print summary results
+    print("\nAnalysis Summary:")
+    print(f"Total Frames: {results['summary']['total_frames']}")
+    print(f"Average Elbow Angle: {results['summary']['avg_elbow_angle']:.2f}°")
+    print(f"Min Elbow Angle: {results['summary']['min_elbow_angle']:.2f}°")
+    print(f"Max Elbow Angle: {results['summary']['max_elbow_angle']:.2f}°")
+    print(f"Average Speed: {results['summary']['avg_speed']:.2f} px/s")
+    print(f"Max Speed: {results['summary']['max_speed']:.2f} px/s")
+    print(f"Overall Chucking Status: {results['summary']['overall_chucking_status']}")
+    print(f"Overall Suggestion: {results['summary']['overall_suggestion']}")
+    print(f"\nAnalyzed video saved to: {results['summary']['output_video_path']}")

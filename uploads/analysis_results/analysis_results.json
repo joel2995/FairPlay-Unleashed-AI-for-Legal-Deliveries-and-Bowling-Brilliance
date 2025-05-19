@@ -1,0 +1,2130 @@
+{
+    "frames": [
+        {
+            "frame_number": 7,
+            "elbow_angle": 74.48068081277242,
+            "shoulder_load": 98.44436864244119,
+            "speed": 0.0,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0007.jpg"
+        },
+        {
+            "frame_number": 8,
+            "elbow_angle": 116.47773611895877,
+            "shoulder_load": 107.70478086737288,
+            "speed": 105.91598787045726,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0008.jpg"
+        },
+        {
+            "frame_number": 9,
+            "elbow_angle": 102.22460179559056,
+            "shoulder_load": 110.16302532378384,
+            "speed": 64.45125053368359,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0009.jpg"
+        },
+        {
+            "frame_number": 10,
+            "elbow_angle": 96.02865178050575,
+            "shoulder_load": 107.85338068049006,
+            "speed": 58.79601525114504,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0010.jpg"
+        },
+        {
+            "frame_number": 11,
+            "elbow_angle": 107.64991937680517,
+            "shoulder_load": 116.18232422828228,
+            "speed": 56.37815976814889,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0011.jpg"
+        },
+        {
+            "frame_number": 12,
+            "elbow_angle": 111.91501124951881,
+            "shoulder_load": 112.73367518043472,
+            "speed": 3.563074212635326,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0012.jpg"
+        },
+        {
+            "frame_number": 13,
+            "elbow_angle": 119.13952350028504,
+            "shoulder_load": 113.46361781146786,
+            "speed": 43.29298693273763,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0013.jpg"
+        },
+        {
+            "frame_number": 14,
+            "elbow_angle": 119.19774969253388,
+            "shoulder_load": 115.59767595923284,
+            "speed": 24.82264692625085,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0014.jpg"
+        },
+        {
+            "frame_number": 15,
+            "elbow_angle": 123.19657949494925,
+            "shoulder_load": 119.33127867980642,
+            "speed": 26.618453008490487,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0015.jpg"
+        },
+        {
+            "frame_number": 16,
+            "elbow_angle": 126.63947563012874,
+            "shoulder_load": 118.15630775031744,
+            "speed": 38.51199920680111,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0016.jpg"
+        },
+        {
+            "frame_number": 17,
+            "elbow_angle": 119.15360466207986,
+            "shoulder_load": 119.94148766381898,
+            "speed": 56.21233353624788,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0017.jpg"
+        },
+        {
+            "frame_number": 18,
+            "elbow_angle": 115.60685885475255,
+            "shoulder_load": 122.81636677597703,
+            "speed": 56.19436745360107,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0018.jpg"
+        },
+        {
+            "frame_number": 19,
+            "elbow_angle": 126.98545053772014,
+            "shoulder_load": 122.15599343727388,
+            "speed": 24.962554988139722,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0019.jpg"
+        },
+        {
+            "frame_number": 20,
+            "elbow_angle": 127.69426715310439,
+            "shoulder_load": 127.10248176380674,
+            "speed": 16.70890093916919,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0020.jpg"
+        },
+        {
+            "frame_number": 21,
+            "elbow_angle": 120.88594105966334,
+            "shoulder_load": 123.46645959705106,
+            "speed": 16.845698291681032,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0021.jpg"
+        },
+        {
+            "frame_number": 22,
+            "elbow_angle": 119.27281525288868,
+            "shoulder_load": 118.9501708519758,
+            "speed": 23.104598009892346,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0022.jpg"
+        },
+        {
+            "frame_number": 23,
+            "elbow_angle": 111.39042137390652,
+            "shoulder_load": 118.50058810391363,
+            "speed": 30.092133179261996,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0023.jpg"
+        },
+        {
+            "frame_number": 24,
+            "elbow_angle": 92.87784895342725,
+            "shoulder_load": 120.43297649799544,
+            "speed": 27.59620905452341,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0024.jpg"
+        },
+        {
+            "frame_number": 25,
+            "elbow_angle": 83.2557713430894,
+            "shoulder_load": 121.28213781233356,
+            "speed": 27.353341945268603,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0025.jpg"
+        },
+        {
+            "frame_number": 26,
+            "elbow_angle": 78.76006052710835,
+            "shoulder_load": 121.22652086135659,
+            "speed": 45.376653153239594,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0026.jpg"
+        },
+        {
+            "frame_number": 27,
+            "elbow_angle": 84.11976835721026,
+            "shoulder_load": 127.08323114187289,
+            "speed": 5.729568883384909,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0027.jpg"
+        },
+        {
+            "frame_number": 28,
+            "elbow_angle": 102.56709983605771,
+            "shoulder_load": 127.30739901308672,
+            "speed": 14.605155731154346,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0028.jpg"
+        },
+        {
+            "frame_number": 29,
+            "elbow_angle": 114.61057290507804,
+            "shoulder_load": 130.02244946441627,
+            "speed": 33.82677293024719,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0029.jpg"
+        },
+        {
+            "frame_number": 30,
+            "elbow_angle": 120.42564536168561,
+            "shoulder_load": 135.98841527321034,
+            "speed": 73.66559345869632,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0030.jpg"
+        },
+        {
+            "frame_number": 31,
+            "elbow_angle": 115.96310828410179,
+            "shoulder_load": 140.36064345398466,
+            "speed": 14.74126272786467,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0031.jpg"
+        },
+        {
+            "frame_number": 32,
+            "elbow_angle": 118.55204756120494,
+            "shoulder_load": 144.46180225723472,
+            "speed": 13.331912747745992,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0032.jpg"
+        },
+        {
+            "frame_number": 33,
+            "elbow_angle": 118.62302797385698,
+            "shoulder_load": 141.65219495279342,
+            "speed": 30.86076606286246,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0033.jpg"
+        },
+        {
+            "frame_number": 34,
+            "elbow_angle": 105.74969712055506,
+            "shoulder_load": 161.90744281213924,
+            "speed": 37.144243235890826,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0034.jpg"
+        },
+        {
+            "frame_number": 35,
+            "elbow_angle": 105.2848356129079,
+            "shoulder_load": 161.78939159120878,
+            "speed": 53.2358338843208,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0035.jpg"
+        },
+        {
+            "frame_number": 36,
+            "elbow_angle": 98.72352827240326,
+            "shoulder_load": 160.01432027941743,
+            "speed": 17.70763204082073,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0036.jpg"
+        },
+        {
+            "frame_number": 37,
+            "elbow_angle": 92.06499603661484,
+            "shoulder_load": 166.09505092842468,
+            "speed": 41.29350061336168,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0037.jpg"
+        },
+        {
+            "frame_number": 38,
+            "elbow_angle": 90.3219828666675,
+            "shoulder_load": 166.63479128610388,
+            "speed": 69.25542719851302,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0038.jpg"
+        },
+        {
+            "frame_number": 39,
+            "elbow_angle": 100.49613503079667,
+            "shoulder_load": 160.7988504276977,
+            "speed": 59.82251180869793,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0039.jpg"
+        },
+        {
+            "frame_number": 40,
+            "elbow_angle": 114.3083443415808,
+            "shoulder_load": 146.53982998009502,
+            "speed": 46.365184663638345,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0040.jpg"
+        },
+        {
+            "frame_number": 41,
+            "elbow_angle": 124.0090054446706,
+            "shoulder_load": 139.32205204481,
+            "speed": 24.524863122672354,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0041.jpg"
+        },
+        {
+            "frame_number": 42,
+            "elbow_angle": 121.98872569517985,
+            "shoulder_load": 136.9926642736715,
+            "speed": 3.016915908456052,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0042.jpg"
+        },
+        {
+            "frame_number": 43,
+            "elbow_angle": 116.00936007424974,
+            "shoulder_load": 141.86894416968008,
+            "speed": 55.72878572612957,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0043.jpg"
+        },
+        {
+            "frame_number": 44,
+            "elbow_angle": 116.96408505255167,
+            "shoulder_load": 145.20019687478546,
+            "speed": 35.44311455548615,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0044.jpg"
+        },
+        {
+            "frame_number": 45,
+            "elbow_angle": 127.13794506436335,
+            "shoulder_load": 141.4656074662776,
+            "speed": 12.80759680210271,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0045.jpg"
+        },
+        {
+            "frame_number": 46,
+            "elbow_angle": 113.74126187562314,
+            "shoulder_load": 151.81413381142667,
+            "speed": 21.851896196050916,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0046.jpg"
+        },
+        {
+            "frame_number": 47,
+            "elbow_angle": 118.82693827967239,
+            "shoulder_load": 150.57939916016963,
+            "speed": 32.35419563127195,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0047.jpg"
+        },
+        {
+            "frame_number": 48,
+            "elbow_angle": 109.72673242850126,
+            "shoulder_load": 160.62779277783287,
+            "speed": 23.918365380415764,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0048.jpg"
+        },
+        {
+            "frame_number": 49,
+            "elbow_angle": 115.62268308592132,
+            "shoulder_load": 170.52151194978748,
+            "speed": 26.624962434115904,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0049.jpg"
+        },
+        {
+            "frame_number": 50,
+            "elbow_angle": 135.01705913508758,
+            "shoulder_load": 157.02379045085803,
+            "speed": 45.19829809027458,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0050.jpg"
+        },
+        {
+            "frame_number": 51,
+            "elbow_angle": 138.37157934760424,
+            "shoulder_load": 159.72691801543854,
+            "speed": 7.394605774279451,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0051.jpg"
+        },
+        {
+            "frame_number": 52,
+            "elbow_angle": 70.09259818535469,
+            "shoulder_load": 176.32722879351695,
+            "speed": 96.60481927044776,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0052.jpg"
+        },
+        {
+            "frame_number": 53,
+            "elbow_angle": 104.51286698263726,
+            "shoulder_load": 130.74696400550044,
+            "speed": 221.66663051699288,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0053.jpg"
+        },
+        {
+            "frame_number": 54,
+            "elbow_angle": 102.546242603537,
+            "shoulder_load": 174.26325926090675,
+            "speed": 377.1301481600113,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0054.jpg"
+        },
+        {
+            "frame_number": 55,
+            "elbow_angle": 92.66622231045864,
+            "shoulder_load": 163.15933628541055,
+            "speed": 25.238764720369733,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0055.jpg"
+        },
+        {
+            "frame_number": 56,
+            "elbow_angle": 141.7131663713201,
+            "shoulder_load": 146.3870860724062,
+            "speed": 78.21912957415539,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0056.jpg"
+        },
+        {
+            "frame_number": 57,
+            "elbow_angle": 151.14398473884995,
+            "shoulder_load": 139.40273586980982,
+            "speed": 39.24174793847646,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0057.jpg"
+        },
+        {
+            "frame_number": 58,
+            "elbow_angle": 134.8167877248648,
+            "shoulder_load": 146.3828440838385,
+            "speed": 17.64569316624291,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0058.jpg"
+        },
+        {
+            "frame_number": 59,
+            "elbow_angle": 129.77827730410965,
+            "shoulder_load": 148.347759541156,
+            "speed": 51.634081815264565,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0059.jpg"
+        },
+        {
+            "frame_number": 60,
+            "elbow_angle": 107.3929898059153,
+            "shoulder_load": 146.52133478397735,
+            "speed": 23.55899953425967,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0060.jpg"
+        },
+        {
+            "frame_number": 61,
+            "elbow_angle": 104.85268883655039,
+            "shoulder_load": 151.77531193547736,
+            "speed": 7.320916775320201,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0061.jpg"
+        },
+        {
+            "frame_number": 62,
+            "elbow_angle": 107.2173064669476,
+            "shoulder_load": 149.39022023421902,
+            "speed": 21.830672298888974,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0062.jpg"
+        },
+        {
+            "frame_number": 63,
+            "elbow_angle": 109.32931570176589,
+            "shoulder_load": 153.97619894532733,
+            "speed": 23.947611211430306,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0063.jpg"
+        },
+        {
+            "frame_number": 64,
+            "elbow_angle": 119.86983248641965,
+            "shoulder_load": 162.86876468825506,
+            "speed": 43.71954113560186,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0064.jpg"
+        },
+        {
+            "frame_number": 65,
+            "elbow_angle": 94.31543584312124,
+            "shoulder_load": 178.80601076218852,
+            "speed": 19.21574146545136,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0065.jpg"
+        },
+        {
+            "frame_number": 66,
+            "elbow_angle": 93.17193904334806,
+            "shoulder_load": 174.05563633823925,
+            "speed": 39.92429829117247,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0066.jpg"
+        },
+        {
+            "frame_number": 67,
+            "elbow_angle": 91.21760739131679,
+            "shoulder_load": 170.41756133716717,
+            "speed": 37.01886226811496,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0067.jpg"
+        },
+        {
+            "frame_number": 68,
+            "elbow_angle": 87.20337511194504,
+            "shoulder_load": 166.26837899885,
+            "speed": 24.77576787739888,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0068.jpg"
+        },
+        {
+            "frame_number": 69,
+            "elbow_angle": 102.97280909604905,
+            "shoulder_load": 179.82355378546524,
+            "speed": 12.192127791985959,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0069.jpg"
+        },
+        {
+            "frame_number": 70,
+            "elbow_angle": 118.58294536807949,
+            "shoulder_load": 171.8761291687996,
+            "speed": 34.61722132487957,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0070.jpg"
+        },
+        {
+            "frame_number": 71,
+            "elbow_angle": 102.80105691227914,
+            "shoulder_load": 172.24028478918265,
+            "speed": 23.379885068949587,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0071.jpg"
+        },
+        {
+            "frame_number": 72,
+            "elbow_angle": 101.62115428249024,
+            "shoulder_load": 169.0968060968369,
+            "speed": 41.367525427728886,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0072.jpg"
+        },
+        {
+            "frame_number": 73,
+            "elbow_angle": 97.63477496906921,
+            "shoulder_load": 166.586168542055,
+            "speed": 4.38401354436973,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0073.jpg"
+        },
+        {
+            "frame_number": 74,
+            "elbow_angle": 55.483319269764316,
+            "shoulder_load": 165.1407216068662,
+            "speed": 42.746062516164805,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0074.jpg"
+        },
+        {
+            "frame_number": 75,
+            "elbow_angle": 139.7842731499421,
+            "shoulder_load": 151.5393355275584,
+            "speed": 152.8215702958993,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0075.jpg"
+        },
+        {
+            "frame_number": 76,
+            "elbow_angle": 146.4775733847164,
+            "shoulder_load": 148.0726517987965,
+            "speed": 33.33280124645563,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0076.jpg"
+        },
+        {
+            "frame_number": 77,
+            "elbow_angle": 150.1361811922703,
+            "shoulder_load": 148.53950370467496,
+            "speed": 54.64898070214746,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0077.jpg"
+        },
+        {
+            "frame_number": 78,
+            "elbow_angle": 141.42772894600822,
+            "shoulder_load": 148.85520474869645,
+            "speed": 12.89546155526185,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0078.jpg"
+        },
+        {
+            "frame_number": 79,
+            "elbow_angle": 123.4731890873883,
+            "shoulder_load": 147.59231307362222,
+            "speed": 29.580830248534074,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0079.jpg"
+        },
+        {
+            "frame_number": 80,
+            "elbow_angle": 112.66241226630726,
+            "shoulder_load": 150.23207071691684,
+            "speed": 30.056216264342215,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0080.jpg"
+        },
+        {
+            "frame_number": 81,
+            "elbow_angle": 89.71267506071064,
+            "shoulder_load": 147.4213222650729,
+            "speed": 44.99579693953264,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0081.jpg"
+        },
+        {
+            "frame_number": 82,
+            "elbow_angle": 98.16517164621138,
+            "shoulder_load": 151.7596486799274,
+            "speed": 36.22496165635649,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0082.jpg"
+        },
+        {
+            "frame_number": 83,
+            "elbow_angle": 100.86660983102576,
+            "shoulder_load": 159.2548993629337,
+            "speed": 22.34290663726484,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0083.jpg"
+        },
+        {
+            "frame_number": 84,
+            "elbow_angle": 101.52202920265665,
+            "shoulder_load": 166.999192355445,
+            "speed": 23.496026418272418,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0084.jpg"
+        },
+        {
+            "frame_number": 85,
+            "elbow_angle": 99.72905880597807,
+            "shoulder_load": 169.61901230603095,
+            "speed": 10.989005777828245,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0085.jpg"
+        },
+        {
+            "frame_number": 86,
+            "elbow_angle": 107.23798986615267,
+            "shoulder_load": 172.93981544210962,
+            "speed": 23.895197181504084,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0086.jpg"
+        },
+        {
+            "frame_number": 87,
+            "elbow_angle": 103.5409079055189,
+            "shoulder_load": 179.3087460457038,
+            "speed": 6.830120276149387,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0087.jpg"
+        },
+        {
+            "frame_number": 88,
+            "elbow_angle": 97.95724375107102,
+            "shoulder_load": 166.168384671449,
+            "speed": 69.51976910350217,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0088.jpg"
+        },
+        {
+            "frame_number": 89,
+            "elbow_angle": 96.75467695386266,
+            "shoulder_load": 163.45834252701448,
+            "speed": 72.10062167017321,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0089.jpg"
+        },
+        {
+            "frame_number": 90,
+            "elbow_angle": 98.63222398354947,
+            "shoulder_load": 165.47099055400562,
+            "speed": 19.465064915446014,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0090.jpg"
+        },
+        {
+            "frame_number": 91,
+            "elbow_angle": 104.2904383433584,
+            "shoulder_load": 165.8730858266348,
+            "speed": 23.639401046126242,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0091.jpg"
+        },
+        {
+            "frame_number": 92,
+            "elbow_angle": 104.51600482223986,
+            "shoulder_load": 164.1787594627641,
+            "speed": 33.254416355883585,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0092.jpg"
+        },
+        {
+            "frame_number": 93,
+            "elbow_angle": 136.37090221596404,
+            "shoulder_load": 164.6519784799566,
+            "speed": 55.53913163673577,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0093.jpg"
+        },
+        {
+            "frame_number": 94,
+            "elbow_angle": 132.75351411301884,
+            "shoulder_load": 163.39161696065779,
+            "speed": 42.47022018553873,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0094.jpg"
+        },
+        {
+            "frame_number": 95,
+            "elbow_angle": 144.51321881510844,
+            "shoulder_load": 156.52410189289552,
+            "speed": 60.43822001029735,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0095.jpg"
+        },
+        {
+            "frame_number": 96,
+            "elbow_angle": 142.90685893235488,
+            "shoulder_load": 157.45744041897566,
+            "speed": 21.663992271568127,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0096.jpg"
+        },
+        {
+            "frame_number": 97,
+            "elbow_angle": 137.94181857496395,
+            "shoulder_load": 155.77813815018456,
+            "speed": 15.345751142246579,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0097.jpg"
+        },
+        {
+            "frame_number": 98,
+            "elbow_angle": 135.8776183148872,
+            "shoulder_load": 150.77636376299148,
+            "speed": 8.593314543951893,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0098.jpg"
+        },
+        {
+            "frame_number": 99,
+            "elbow_angle": 105.86066811736168,
+            "shoulder_load": 152.7139668685908,
+            "speed": 41.180506413678366,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0099.jpg"
+        },
+        {
+            "frame_number": 100,
+            "elbow_angle": 95.75482777360372,
+            "shoulder_load": 155.54463159340264,
+            "speed": 21.132790970526358,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0100.jpg"
+        },
+        {
+            "frame_number": 101,
+            "elbow_angle": 91.2080781574507,
+            "shoulder_load": 156.1727443866166,
+            "speed": 6.943088635126426,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0101.jpg"
+        },
+        {
+            "frame_number": 102,
+            "elbow_angle": 94.71257576553842,
+            "shoulder_load": 163.74268421480383,
+            "speed": 12.264674420907513,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0102.jpg"
+        },
+        {
+            "frame_number": 103,
+            "elbow_angle": 97.13539767411925,
+            "shoulder_load": 167.42815883657207,
+            "speed": 15.678055599848356,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0103.jpg"
+        },
+        {
+            "frame_number": 104,
+            "elbow_angle": 103.34300695836538,
+            "shoulder_load": 171.78127031666102,
+            "speed": 44.604778757238584,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0104.jpg"
+        },
+        {
+            "frame_number": 105,
+            "elbow_angle": 101.42912746478942,
+            "shoulder_load": 179.48433847609394,
+            "speed": 13.77967905390219,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0105.jpg"
+        },
+        {
+            "frame_number": 106,
+            "elbow_angle": 100.16759601203046,
+            "shoulder_load": 178.14930980121906,
+            "speed": 3.5213334271938757,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0106.jpg"
+        },
+        {
+            "frame_number": 107,
+            "elbow_angle": 98.5631508797162,
+            "shoulder_load": 165.3707989116932,
+            "speed": 40.344008221379724,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0107.jpg"
+        },
+        {
+            "frame_number": 108,
+            "elbow_angle": 100.24238435787714,
+            "shoulder_load": 154.64567015696622,
+            "speed": 83.32669998967111,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0108.jpg"
+        },
+        {
+            "frame_number": 109,
+            "elbow_angle": 3.791083586617588,
+            "shoulder_load": 167.1610742602218,
+            "speed": 121.23050092073015,
+            "suggestion": "Consider elbow extension drills to improve your form.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Chucking (Illegal)",
+            "frame_path": "frames\\frame_0109.jpg"
+        },
+        {
+            "frame_number": 110,
+            "elbow_angle": 104.55527563497955,
+            "shoulder_load": 161.31918958928577,
+            "speed": 110.06058050011235,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0110.jpg"
+        },
+        {
+            "frame_number": 111,
+            "elbow_angle": 106.0053648737275,
+            "shoulder_load": 170.72512537832208,
+            "speed": 110.59634144787417,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0111.jpg"
+        },
+        {
+            "frame_number": 112,
+            "elbow_angle": 142.53369833217127,
+            "shoulder_load": 160.65161691334566,
+            "speed": 52.798809970142756,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0112.jpg"
+        },
+        {
+            "frame_number": 113,
+            "elbow_angle": 132.30720843614125,
+            "shoulder_load": 158.02383845248337,
+            "speed": 36.767115480191244,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0113.jpg"
+        },
+        {
+            "frame_number": 114,
+            "elbow_angle": 137.45255407841987,
+            "shoulder_load": 149.6577848744486,
+            "speed": 26.614391173833337,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0114.jpg"
+        },
+        {
+            "frame_number": 115,
+            "elbow_angle": 140.85582863085517,
+            "shoulder_load": 147.76175333727863,
+            "speed": 144.31796444091498,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0115.jpg"
+        },
+        {
+            "frame_number": 116,
+            "elbow_angle": 127.31601309303451,
+            "shoulder_load": 152.76768665954805,
+            "speed": 11.066662278224,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0116.jpg"
+        },
+        {
+            "frame_number": 117,
+            "elbow_angle": 94.3515317359687,
+            "shoulder_load": 152.93360084745393,
+            "speed": 36.799617061368295,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0117.jpg"
+        },
+        {
+            "frame_number": 118,
+            "elbow_angle": 79.79240865934139,
+            "shoulder_load": 155.22704520997175,
+            "speed": 22.216540775586928,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0118.jpg"
+        },
+        {
+            "frame_number": 119,
+            "elbow_angle": 82.81821955335096,
+            "shoulder_load": 156.68397106070725,
+            "speed": 18.791276872336933,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0119.jpg"
+        },
+        {
+            "frame_number": 120,
+            "elbow_angle": 75.89481231960366,
+            "shoulder_load": 161.42539895869663,
+            "speed": 22.460518526410723,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0120.jpg"
+        },
+        {
+            "frame_number": 121,
+            "elbow_angle": 87.8839090071296,
+            "shoulder_load": 162.4950901212713,
+            "speed": 25.94782872730677,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0121.jpg"
+        },
+        {
+            "frame_number": 122,
+            "elbow_angle": 97.08706567927334,
+            "shoulder_load": 169.3731474885992,
+            "speed": 68.53774197475263,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0122.jpg"
+        },
+        {
+            "frame_number": 123,
+            "elbow_angle": 111.47115789640358,
+            "shoulder_load": 166.94033861087576,
+            "speed": 84.70597825874933,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0123.jpg"
+        },
+        {
+            "frame_number": 124,
+            "elbow_angle": 139.0315181243363,
+            "shoulder_load": 166.1072340580255,
+            "speed": 109.31141667188268,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0124.jpg"
+        },
+        {
+            "frame_number": 125,
+            "elbow_angle": 110.28500533662887,
+            "shoulder_load": 178.64046210272573,
+            "speed": 57.17098356019153,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0125.jpg"
+        },
+        {
+            "frame_number": 126,
+            "elbow_angle": 114.02273300017242,
+            "shoulder_load": 177.82806838529314,
+            "speed": 41.05098299232778,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0126.jpg"
+        },
+        {
+            "frame_number": 127,
+            "elbow_angle": 96.19291148251199,
+            "shoulder_load": 169.9558707323396,
+            "speed": 5.107236186420781,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0127.jpg"
+        },
+        {
+            "frame_number": 128,
+            "elbow_angle": 113.2115310011745,
+            "shoulder_load": 179.8564753100476,
+            "speed": 55.76786683446174,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0128.jpg"
+        },
+        {
+            "frame_number": 129,
+            "elbow_angle": 156.20211152658757,
+            "shoulder_load": 150.98616999143673,
+            "speed": 69.0814482227276,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0129.jpg"
+        },
+        {
+            "frame_number": 130,
+            "elbow_angle": 165.14689662421506,
+            "shoulder_load": 137.92952998003932,
+            "speed": 36.39448534787557,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0130.jpg"
+        },
+        {
+            "frame_number": 131,
+            "elbow_angle": 165.61554176988096,
+            "shoulder_load": 142.63995318178033,
+            "speed": 61.27702056158088,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0131.jpg"
+        },
+        {
+            "frame_number": 132,
+            "elbow_angle": 138.36307683547318,
+            "shoulder_load": 148.32392856945117,
+            "speed": 51.13918483240893,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0132.jpg"
+        },
+        {
+            "frame_number": 133,
+            "elbow_angle": 126.26504278116138,
+            "shoulder_load": 146.38770574476263,
+            "speed": 27.604526067682567,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0133.jpg"
+        },
+        {
+            "frame_number": 134,
+            "elbow_angle": 100.18829439017861,
+            "shoulder_load": 144.596444543758,
+            "speed": 49.61811379883734,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0134.jpg"
+        },
+        {
+            "frame_number": 135,
+            "elbow_angle": 80.52622177711481,
+            "shoulder_load": 144.9076881315021,
+            "speed": 43.6639682862083,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0135.jpg"
+        },
+        {
+            "frame_number": 136,
+            "elbow_angle": 60.78530536169692,
+            "shoulder_load": 147.97205966088546,
+            "speed": 20.420190555697577,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0136.jpg"
+        },
+        {
+            "frame_number": 137,
+            "elbow_angle": 59.82459701551296,
+            "shoulder_load": 150.72096237820062,
+            "speed": 6.79372648105426,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0137.jpg"
+        },
+        {
+            "frame_number": 138,
+            "elbow_angle": 58.95361979624863,
+            "shoulder_load": 159.19425002239552,
+            "speed": 48.28558106820768,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0138.jpg"
+        },
+        {
+            "frame_number": 139,
+            "elbow_angle": 75.74990507108714,
+            "shoulder_load": 165.65765242611667,
+            "speed": 79.34518235638012,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0139.jpg"
+        },
+        {
+            "frame_number": 140,
+            "elbow_angle": 99.57702755357656,
+            "shoulder_load": 170.05467402871068,
+            "speed": 80.30551222015018,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0140.jpg"
+        },
+        {
+            "frame_number": 141,
+            "elbow_angle": 112.41817628918574,
+            "shoulder_load": 176.05323043123852,
+            "speed": 23.252578883377996,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0141.jpg"
+        },
+        {
+            "frame_number": 142,
+            "elbow_angle": 113.84864529330852,
+            "shoulder_load": 176.71899004732126,
+            "speed": 14.089333562581412,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0142.jpg"
+        },
+        {
+            "frame_number": 143,
+            "elbow_angle": 95.64072617405515,
+            "shoulder_load": 167.50504547492648,
+            "speed": 47.70136081005108,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0143.jpg"
+        },
+        {
+            "frame_number": 144,
+            "elbow_angle": 81.80269738432236,
+            "shoulder_load": 158.88259269539157,
+            "speed": 46.22526408106282,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0144.jpg"
+        },
+        {
+            "frame_number": 145,
+            "elbow_angle": 98.66540715641474,
+            "shoulder_load": 170.26323274057162,
+            "speed": 42.86772002271236,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0145.jpg"
+        },
+        {
+            "frame_number": 146,
+            "elbow_angle": 134.28983479423275,
+            "shoulder_load": 166.45883003054425,
+            "speed": 83.48044100762587,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0146.jpg"
+        },
+        {
+            "frame_number": 147,
+            "elbow_angle": 137.62498551169247,
+            "shoulder_load": 163.4064199440193,
+            "speed": 50.91965155965732,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0147.jpg"
+        },
+        {
+            "frame_number": 148,
+            "elbow_angle": 134.8329845156168,
+            "shoulder_load": 154.80456031532995,
+            "speed": 138.24513195987487,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0148.jpg"
+        },
+        {
+            "frame_number": 149,
+            "elbow_angle": 133.20615469509914,
+            "shoulder_load": 146.4704822281994,
+            "speed": 34.32806256180962,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0149.jpg"
+        },
+        {
+            "frame_number": 150,
+            "elbow_angle": 77.02241708235312,
+            "shoulder_load": 153.28524115505144,
+            "speed": 29.48984435443376,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0150.jpg"
+        },
+        {
+            "frame_number": 151,
+            "elbow_angle": 67.23239502886302,
+            "shoulder_load": 156.88951177706994,
+            "speed": 12.995221795804015,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0151.jpg"
+        },
+        {
+            "frame_number": 152,
+            "elbow_angle": 68.28351159840291,
+            "shoulder_load": 155.30726012383073,
+            "speed": 23.58629187820991,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0152.jpg"
+        },
+        {
+            "frame_number": 153,
+            "elbow_angle": 66.62748771079741,
+            "shoulder_load": 155.53772905024644,
+            "speed": 12.008878061805618,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0153.jpg"
+        },
+        {
+            "frame_number": 154,
+            "elbow_angle": 96.0993370798742,
+            "shoulder_load": 154.65838429551306,
+            "speed": 33.78180689566118,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0154.jpg"
+        },
+        {
+            "frame_number": 155,
+            "elbow_angle": 113.18923822352505,
+            "shoulder_load": 157.78029149843601,
+            "speed": 34.4194579191721,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0155.jpg"
+        },
+        {
+            "frame_number": 156,
+            "elbow_angle": 95.46991732161456,
+            "shoulder_load": 166.8412064430665,
+            "speed": 17.837801461157458,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0156.jpg"
+        },
+        {
+            "frame_number": 157,
+            "elbow_angle": 97.01249156463399,
+            "shoulder_load": 170.1345173762131,
+            "speed": 13.71237244712891,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0157.jpg"
+        },
+        {
+            "frame_number": 158,
+            "elbow_angle": 3.2518361654810377,
+            "shoulder_load": 170.31991269193406,
+            "speed": 45.97621800863186,
+            "suggestion": "Consider elbow extension drills to improve your form.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Chucking (Illegal)",
+            "frame_path": "frames\\frame_0158.jpg"
+        },
+        {
+            "frame_number": 159,
+            "elbow_angle": 152.8358213937723,
+            "shoulder_load": 166.99131727290953,
+            "speed": 75.55317022252794,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0159.jpg"
+        },
+        {
+            "frame_number": 160,
+            "elbow_angle": 161.07742721370775,
+            "shoulder_load": 167.29563876565527,
+            "speed": 8.098825793169565,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0160.jpg"
+        },
+        {
+            "frame_number": 161,
+            "elbow_angle": 157.86445800788778,
+            "shoulder_load": 156.99746413636348,
+            "speed": 34.11904837621908,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0161.jpg"
+        },
+        {
+            "frame_number": 162,
+            "elbow_angle": 121.72414196239868,
+            "shoulder_load": 148.6615820499483,
+            "speed": 59.70225036138974,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0162.jpg"
+        },
+        {
+            "frame_number": 163,
+            "elbow_angle": 86.77312872443629,
+            "shoulder_load": 141.69611836961312,
+            "speed": 79.3943618010517,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0163.jpg"
+        },
+        {
+            "frame_number": 164,
+            "elbow_angle": 84.49537899763111,
+            "shoulder_load": 128.26073412680654,
+            "speed": 97.21376842782173,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0164.jpg"
+        },
+        {
+            "frame_number": 165,
+            "elbow_angle": 67.20701207300463,
+            "shoulder_load": 114.37317163666,
+            "speed": 65.33188317285591,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0165.jpg"
+        },
+        {
+            "frame_number": 166,
+            "elbow_angle": 113.2882537287987,
+            "shoulder_load": 66.04848989633263,
+            "speed": 120.49322839079785,
+            "suggestion": "Elbow position is optimal. Maintain your form!",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0166.jpg"
+        },
+        {
+            "frame_number": 167,
+            "elbow_angle": 93.61843129118009,
+            "shoulder_load": 50.22763232478428,
+            "speed": 57.05850745213224,
+            "suggestion": "Elbow position is optimal. Maintain your form!",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0167.jpg"
+        },
+        {
+            "frame_number": 168,
+            "elbow_angle": 90.31513047638079,
+            "shoulder_load": 30.620956437392035,
+            "speed": 88.71502945836701,
+            "suggestion": "Elbow position is optimal. Maintain your form!",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0168.jpg"
+        },
+        {
+            "frame_number": 169,
+            "elbow_angle": 65.18644193607832,
+            "shoulder_load": 115.4851322501912,
+            "speed": 46.03158791893853,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0169.jpg"
+        },
+        {
+            "frame_number": 170,
+            "elbow_angle": 169.9898012068915,
+            "shoulder_load": 8.175892812956128,
+            "speed": 119.97363194582661,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0170.jpg"
+        },
+        {
+            "frame_number": 171,
+            "elbow_angle": 166.19943964221474,
+            "shoulder_load": 1.4239739053865152,
+            "speed": 44.16124654507567,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0171.jpg"
+        },
+        {
+            "frame_number": 172,
+            "elbow_angle": 78.39030800857893,
+            "shoulder_load": 131.16001015602194,
+            "speed": 138.42310330603172,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0172.jpg"
+        },
+        {
+            "frame_number": 173,
+            "elbow_angle": 172.21095070464426,
+            "shoulder_load": 26.809283646081596,
+            "speed": 187.84314108710737,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0173.jpg"
+        },
+        {
+            "frame_number": 174,
+            "elbow_angle": 178.3134259367774,
+            "shoulder_load": 12.881369101517002,
+            "speed": 94.29173719889971,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0174.jpg"
+        },
+        {
+            "frame_number": 175,
+            "elbow_angle": 157.05942320370227,
+            "shoulder_load": 10.836154468409191,
+            "speed": 80.65742627113595,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0175.jpg"
+        },
+        {
+            "frame_number": 176,
+            "elbow_angle": 173.80050875555492,
+            "shoulder_load": 12.766538237523639,
+            "speed": 112.39089144798947,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0176.jpg"
+        },
+        {
+            "frame_number": 177,
+            "elbow_angle": 174.42605460013306,
+            "shoulder_load": 58.68508772006567,
+            "speed": 267.8088269892723,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0177.jpg"
+        },
+        {
+            "frame_number": 178,
+            "elbow_angle": 147.1392880239856,
+            "shoulder_load": 120.59476951214563,
+            "speed": 248.0147567897758,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0178.jpg"
+        },
+        {
+            "frame_number": 179,
+            "elbow_angle": 159.37601166592657,
+            "shoulder_load": 137.53601252370285,
+            "speed": 309.69380005693927,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0179.jpg"
+        },
+        {
+            "frame_number": 180,
+            "elbow_angle": 159.28934070346398,
+            "shoulder_load": 143.39018265236945,
+            "speed": 136.22471111897713,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0180.jpg"
+        },
+        {
+            "frame_number": 181,
+            "elbow_angle": 152.02973733983234,
+            "shoulder_load": 150.27975603778722,
+            "speed": 71.64700683004077,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0181.jpg"
+        },
+        {
+            "frame_number": 182,
+            "elbow_angle": 155.5842694403989,
+            "shoulder_load": 156.01658568506912,
+            "speed": 141.0067685628824,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0182.jpg"
+        },
+        {
+            "frame_number": 183,
+            "elbow_angle": 155.16026485495303,
+            "shoulder_load": 151.30118444069657,
+            "speed": 42.452028387075366,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0183.jpg"
+        },
+        {
+            "frame_number": 184,
+            "elbow_angle": 163.40267210937427,
+            "shoulder_load": 153.81081085516234,
+            "speed": 146.19106740430522,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0184.jpg"
+        },
+        {
+            "frame_number": 185,
+            "elbow_angle": 170.936236618814,
+            "shoulder_load": 157.35200778147197,
+            "speed": 95.6724291124849,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0185.jpg"
+        },
+        {
+            "frame_number": 186,
+            "elbow_angle": 169.7154861466035,
+            "shoulder_load": 138.78840276136745,
+            "speed": 291.5074919218465,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0186.jpg"
+        },
+        {
+            "frame_number": 187,
+            "elbow_angle": 131.4075547129532,
+            "shoulder_load": 64.67524239972093,
+            "speed": 192.04747100656942,
+            "suggestion": "Elbow position is optimal. Maintain your form!",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0187.jpg"
+        },
+        {
+            "frame_number": 188,
+            "elbow_angle": 94.86213361872836,
+            "shoulder_load": 81.81153474788965,
+            "speed": 115.99913820620897,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0188.jpg"
+        },
+        {
+            "frame_number": 189,
+            "elbow_angle": 176.53900845238866,
+            "shoulder_load": 52.634406949927126,
+            "speed": 194.28866607440395,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0189.jpg"
+        },
+        {
+            "frame_number": 190,
+            "elbow_angle": 179.81863025652768,
+            "shoulder_load": 49.71588743542036,
+            "speed": 91.07731248977278,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0190.jpg"
+        },
+        {
+            "frame_number": 191,
+            "elbow_angle": 178.21801982585956,
+            "shoulder_load": 46.931108996834155,
+            "speed": 6.7506031791311605,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0191.jpg"
+        },
+        {
+            "frame_number": 193,
+            "elbow_angle": 168.12778309744903,
+            "shoulder_load": 55.31945863370148,
+            "speed": 179.36176813254232,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0193.jpg"
+        },
+        {
+            "frame_number": 194,
+            "elbow_angle": 165.0566790919452,
+            "shoulder_load": 56.89076376804303,
+            "speed": 6.918699655830586,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0194.jpg"
+        },
+        {
+            "frame_number": 195,
+            "elbow_angle": 165.4770409152626,
+            "shoulder_load": 58.80242365493092,
+            "speed": 36.82777367960581,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0195.jpg"
+        },
+        {
+            "frame_number": 196,
+            "elbow_angle": 172.95360945360358,
+            "shoulder_load": 59.84288403789968,
+            "speed": 70.99316383427823,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0196.jpg"
+        },
+        {
+            "frame_number": 197,
+            "elbow_angle": 172.1038604340415,
+            "shoulder_load": 65.30827555899029,
+            "speed": 56.80152251988896,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0197.jpg"
+        },
+        {
+            "frame_number": 198,
+            "elbow_angle": 169.27497620940278,
+            "shoulder_load": 73.31073752869216,
+            "speed": 62.83098952417141,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0198.jpg"
+        },
+        {
+            "frame_number": 199,
+            "elbow_angle": 166.05428035271657,
+            "shoulder_load": 81.37954206874446,
+            "speed": 79.30692036603703,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0199.jpg"
+        },
+        {
+            "frame_number": 200,
+            "elbow_angle": 173.25329269621668,
+            "shoulder_load": 83.43433149118519,
+            "speed": 79.83631684277397,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0200.jpg"
+        },
+        {
+            "frame_number": 201,
+            "elbow_angle": 175.56526556261525,
+            "shoulder_load": 80.59287098965412,
+            "speed": 101.88345237135624,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0201.jpg"
+        },
+        {
+            "frame_number": 202,
+            "elbow_angle": 176.08277391439742,
+            "shoulder_load": 84.18011449820882,
+            "speed": 64.1291603568904,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0202.jpg"
+        },
+        {
+            "frame_number": 203,
+            "elbow_angle": 176.21730840254938,
+            "shoulder_load": 93.14077347265166,
+            "speed": 66.8068604669635,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0203.jpg"
+        },
+        {
+            "frame_number": 204,
+            "elbow_angle": 179.00268829817537,
+            "shoulder_load": 89.68130768599084,
+            "speed": 101.45774980433252,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0204.jpg"
+        },
+        {
+            "frame_number": 205,
+            "elbow_angle": 167.0538676796613,
+            "shoulder_load": 107.6256970732176,
+            "speed": 86.60889179564363,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0205.jpg"
+        },
+        {
+            "frame_number": 206,
+            "elbow_angle": 175.4678045538675,
+            "shoulder_load": 107.40426282097873,
+            "speed": 63.1894305338734,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0206.jpg"
+        },
+        {
+            "frame_number": 207,
+            "elbow_angle": 176.34649099406283,
+            "shoulder_load": 111.74002566558673,
+            "speed": 43.35223008039579,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0207.jpg"
+        },
+        {
+            "frame_number": 208,
+            "elbow_angle": 139.5979825703536,
+            "shoulder_load": 144.21932575133113,
+            "speed": 359.01334898741,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0208.jpg"
+        },
+        {
+            "frame_number": 209,
+            "elbow_angle": 68.35212489683471,
+            "shoulder_load": 172.893532903475,
+            "speed": 635.4079750739463,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0209.jpg"
+        },
+        {
+            "frame_number": 210,
+            "elbow_angle": 116.48632013644593,
+            "shoulder_load": 171.11925968027535,
+            "speed": 699.1093124631738,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0210.jpg"
+        },
+        {
+            "frame_number": 211,
+            "elbow_angle": 133.3160341557593,
+            "shoulder_load": 165.00543296534755,
+            "speed": 94.36229249178118,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0211.jpg"
+        },
+        {
+            "frame_number": 212,
+            "elbow_angle": 170.82252729400278,
+            "shoulder_load": 146.9178544229663,
+            "speed": 194.24755836341367,
+            "suggestion": "Optimize your arm action; elbow extension may be excessive.\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0212.jpg"
+        },
+        {
+            "frame_number": 213,
+            "elbow_angle": 144.43645962752296,
+            "shoulder_load": 143.73649972151725,
+            "speed": 109.3361120099007,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0213.jpg"
+        },
+        {
+            "frame_number": 214,
+            "elbow_angle": 129.73493718728426,
+            "shoulder_load": 147.5127690252058,
+            "speed": 155.96668600183764,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0214.jpg"
+        },
+        {
+            "frame_number": 215,
+            "elbow_angle": 122.04401140587572,
+            "shoulder_load": 151.1955654235009,
+            "speed": 120.47322285392875,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0215.jpg"
+        },
+        {
+            "frame_number": 216,
+            "elbow_angle": 124.91503995573447,
+            "shoulder_load": 157.94124254572077,
+            "speed": 94.32596855419384,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0216.jpg"
+        },
+        {
+            "frame_number": 217,
+            "elbow_angle": 128.8955662027514,
+            "shoulder_load": 161.49297462188213,
+            "speed": 49.23759513339918,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0217.jpg"
+        },
+        {
+            "frame_number": 218,
+            "elbow_angle": 128.82815777401106,
+            "shoulder_load": 161.3188478362802,
+            "speed": 22.794602678010122,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0218.jpg"
+        },
+        {
+            "frame_number": 219,
+            "elbow_angle": 125.3027955762852,
+            "shoulder_load": 160.07229491989924,
+            "speed": 24.978533337055662,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0219.jpg"
+        },
+        {
+            "frame_number": 220,
+            "elbow_angle": 123.26271927999079,
+            "shoulder_load": 163.42880936398456,
+            "speed": 87.56243125181776,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0220.jpg"
+        },
+        {
+            "frame_number": 221,
+            "elbow_angle": 115.73123208094054,
+            "shoulder_load": 161.48356629951377,
+            "speed": 44.733677330543,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0221.jpg"
+        },
+        {
+            "frame_number": 222,
+            "elbow_angle": 110.06086789126843,
+            "shoulder_load": 161.24903899731692,
+            "speed": 70.11921540150583,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0222.jpg"
+        },
+        {
+            "frame_number": 223,
+            "elbow_angle": 107.01079197252062,
+            "shoulder_load": 162.4962360468575,
+            "speed": 87.64738184077244,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0223.jpg"
+        },
+        {
+            "frame_number": 224,
+            "elbow_angle": 104.2663021951854,
+            "shoulder_load": 162.52597640556723,
+            "speed": 41.140603709224294,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0224.jpg"
+        },
+        {
+            "frame_number": 225,
+            "elbow_angle": 105.10219263317151,
+            "shoulder_load": 166.41077181687567,
+            "speed": 65.44350734008212,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0225.jpg"
+        },
+        {
+            "frame_number": 226,
+            "elbow_angle": 101.32498835304654,
+            "shoulder_load": 164.1944284719215,
+            "speed": 71.93485960061862,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0226.jpg"
+        },
+        {
+            "frame_number": 227,
+            "elbow_angle": 106.53715564700235,
+            "shoulder_load": 173.14205218237868,
+            "speed": 98.86695899707308,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0227.jpg"
+        },
+        {
+            "frame_number": 228,
+            "elbow_angle": 107.48123070300568,
+            "shoulder_load": 175.94033424358997,
+            "speed": 125.16843795018082,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0228.jpg"
+        },
+        {
+            "frame_number": 229,
+            "elbow_angle": 105.07754199991388,
+            "shoulder_load": 179.143755240672,
+            "speed": 138.24073859194044,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0229.jpg"
+        },
+        {
+            "frame_number": 230,
+            "elbow_angle": 105.22528223988135,
+            "shoulder_load": 170.6965709913526,
+            "speed": 106.57091461858214,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0230.jpg"
+        },
+        {
+            "frame_number": 231,
+            "elbow_angle": 105.54591612060025,
+            "shoulder_load": 163.0168827333342,
+            "speed": 112.45971388363041,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0231.jpg"
+        },
+        {
+            "frame_number": 232,
+            "elbow_angle": 101.23141541447382,
+            "shoulder_load": 158.22668441159837,
+            "speed": 142.7455844641297,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0232.jpg"
+        },
+        {
+            "frame_number": 233,
+            "elbow_angle": 87.25830075321528,
+            "shoulder_load": 151.2617860883246,
+            "speed": 165.8791459675489,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0233.jpg"
+        },
+        {
+            "frame_number": 234,
+            "elbow_angle": 85.44938155287093,
+            "shoulder_load": 147.33826487186093,
+            "speed": 110.91533405132095,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0234.jpg"
+        },
+        {
+            "frame_number": 235,
+            "elbow_angle": 82.63822577484534,
+            "shoulder_load": 145.7829013767075,
+            "speed": 87.754094997156,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0235.jpg"
+        },
+        {
+            "frame_number": 236,
+            "elbow_angle": 71.92553052424034,
+            "shoulder_load": 143.97990505376356,
+            "speed": 75.75149649384899,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0236.jpg"
+        },
+        {
+            "frame_number": 237,
+            "elbow_angle": 72.95730715488041,
+            "shoulder_load": 144.5103599000737,
+            "speed": 35.15210922046169,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0237.jpg"
+        },
+        {
+            "frame_number": 238,
+            "elbow_angle": 84.87831218369432,
+            "shoulder_load": 143.27890542352574,
+            "speed": 98.93628002784591,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0238.jpg"
+        },
+        {
+            "frame_number": 239,
+            "elbow_angle": 107.10134766711911,
+            "shoulder_load": 134.8250351872715,
+            "speed": 88.92105281060559,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0239.jpg"
+        },
+        {
+            "frame_number": 240,
+            "elbow_angle": 76.32594960415872,
+            "shoulder_load": 135.71280933686933,
+            "speed": 50.452832354122314,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0240.jpg"
+        },
+        {
+            "frame_number": 241,
+            "elbow_angle": 76.73571092264082,
+            "shoulder_load": 143.15913782319794,
+            "speed": 81.38916918765956,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0241.jpg"
+        },
+        {
+            "frame_number": 242,
+            "elbow_angle": 85.83569947301783,
+            "shoulder_load": 149.76539052322698,
+            "speed": 112.37631354233677,
+            "suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+            "chucking_status": "Legal",
+            "frame_path": "frames\\frame_0242.jpg"
+        }
+    ],
+    "summary": {
+        "total_frames": 243,
+        "avg_elbow_angle": 116.49883383027397,
+        "min_elbow_angle": 3.2518361654810377,
+        "max_elbow_angle": 179.81863025652768,
+        "avg_speed": 68.51601542855342,
+        "max_speed": 699.1093124631738,
+        "overall_chucking_status": "Chucking (Illegal)",
+        "overall_suggestion": "Elbow position is optimal. Maintain your form!\nInclude shoulder flexibility and strength training exercises.",
+        "output_video_path": "D:\\FairPlay Unleashed AI for Legal Deliveries and Bowling Brilliance\\uploads\\analysis_results\\analyzed_video.mp4"
+    }
+}
